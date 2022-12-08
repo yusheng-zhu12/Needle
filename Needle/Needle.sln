@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Needle", "Needle\Needle.csproj", "{A47481E4-E898-4AD3-9BF2-A9B11147206C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47481E4-E898-4AD3-9BF2-A9B11147206C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47481E4-E898-4AD3-9BF2-A9B11147206C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47481E4-E898-4AD3-9BF2-A9B11147206C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47481E4-E898-4AD3-9BF2-A9B11147206C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB442B23-5434-483E-A440-B49742E1DE93}
+	EndGlobalSection
+EndGlobal

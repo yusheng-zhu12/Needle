@@ -1,0 +1,55 @@
+E:\Needle\Needle\bin\Debug\Needle.exe.config
+E:\Needle\Needle\bin\Debug\Needle.exe
+E:\Needle\Needle\bin\Debug\Needle.pdb
+E:\Needle\Needle\obj\Debug\Needle.csproj.AssemblyReference.cache
+E:\Needle\Needle\obj\Debug\Needle.csproj.SuggestedBindingRedirects.cache
+E:\Needle\Needle\obj\Debug\Needle.Form1.resources
+E:\Needle\Needle\obj\Debug\Needle.Properties.Resources.resources
+E:\Needle\Needle\obj\Debug\Needle.csproj.GenerateResource.cache
+E:\Needle\Needle\obj\Debug\Needle.csproj.CoreCompileInputs.cache
+E:\Needle\Needle\obj\Debug\Needle.exe
+E:\Needle\Needle\obj\Debug\Needle.pdb
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\bin\Debug\Needle.exe.config
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\bin\Debug\Needle.exe
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\bin\Debug\Needle.pdb
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.csproj.AssemblyReference.cache
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.csproj.SuggestedBindingRedirects.cache
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.Form1.resources
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.Properties.Resources.resources
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.csproj.GenerateResource.cache
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.csproj.CoreCompileInputs.cache
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.exe
+D:\腾讯\微信\微信文件\WeChat Files\wxid_n3jjmk4nhfgs22\FileStorage\File\2022-12\Needle\Needle\obj\Debug\Needle.pdb
+D:\vs\C#\UDP\Needle\Needle\bin\Debug\Needle.exe.config
+D:\vs\C#\UDP\Needle\Needle\bin\Debug\Needle.exe
+D:\vs\C#\UDP\Needle\Needle\bin\Debug\Needle.pdb
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.csproj.AssemblyReference.cache
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.csproj.SuggestedBindingRedirects.cache
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.Form1.resources
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.Properties.Resources.resources
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.csproj.GenerateResource.cache
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.csproj.CoreCompileInputs.cache
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.exe
+D:\vs\C#\UDP\Needle\Needle\obj\Debug\Needle.pdb
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\bin\Debug\Needle.exe.config
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\bin\Debug\Needle.exe
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\bin\Debug\Needle.pdb
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.AssemblyReference.cache
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.SuggestedBindingRedirects.cache
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.Form1.resources
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.Properties.Resources.resources
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.GenerateResource.cache
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.CoreCompileInputs.cache
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.exe
+D:\vs\C#\UDP\Needle - 副本 (2)\Needle\obj\Debug\Needle.pdb
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\bin\Debug\Needle.exe.config
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\bin\Debug\Needle.exe
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\bin\Debug\Needle.pdb
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.AssemblyReference.cache
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.SuggestedBindingRedirects.cache
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.Form1.resources
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.Properties.Resources.resources
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.GenerateResource.cache
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.csproj.CoreCompileInputs.cache
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.exe
+C:\Users\朱雨盛\Desktop\Needle - 副本 (2)\Needle\obj\Debug\Needle.pdb
